@@ -1,3 +1,3 @@
-{{
-  "I'm a severely malformed JSON file"",
-]
+{
+  "I'm a valid JSON file": 1
+}
